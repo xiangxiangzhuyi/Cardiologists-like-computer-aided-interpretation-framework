@@ -7,7 +7,7 @@ Arrhythmias can increase the risk of complications such as stroke or heart failu
 #### For more information, wait for our paper "Cardiologists-like computer-aided interpretation framework for protecting vulnerable arrhythmias from the bullying of the aggressive" to be public.
 
 
-## Some ECG examples are shared in this folder. 
+## Some ECG examples are shared in folder "ECG_data". 
 
 sinoatrial block (SA block.npy)
 
@@ -18,16 +18,29 @@ sinus tachycardia	(ST.npy)
 sinus arrhythmia	(SA.npy)
 
 atrioventricular block	(AV block.npy)
+
 junction tachycardia	(JT.npy)
+
 junction escape	(JE.npy)
+
 junction escape rhythm	(JER.npy)
+
 premature junctional contraction	(PJC.npy）
+
 atrial fibrillation	(AF.npy）
+
 atrial tachycardia	(AT.npy）
+
 premature atrial contraction	(PAC.npy）
+
 intraventricular block	(IV block.npy）
+
 ventricular tachycardia	(VT.npy）
+
 ventricular escape	(VE.npy）
+
 premature ventricular contraction	(PVC.npy）
+
 atrial flutter	(AFL.npy）
+
 normal (Normal.npy)
