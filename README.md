@@ -48,3 +48,5 @@ atrial flutter	(AFL.npy）
 normal (Normal.npy)
 
 #### 100 arrhythmia ECG images are shared in folder "ECG_image".
+![0](https://user-images.githubusercontent.com/15710573/204076687-52639870-8ded-495f-b777-70214b48e2a4.png)
+
