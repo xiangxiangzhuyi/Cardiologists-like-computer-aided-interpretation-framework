@@ -9,7 +9,7 @@ Arrhythmias can increase the risk of complications such as stroke or heart failu
 
 
 
-#### Some ECG examples are shared in folder "ECG_data".
+#### Some ECG examples are shared in folder "ECG_data". you can use numpy.load() to access the data.
 
 sinoatrial block (SA block.npy)
 
@@ -46,3 +46,5 @@ premature ventricular contraction	(PVC.npy）
 atrial flutter	(AFL.npy）
 
 normal (Normal.npy)
+
+#### 100 arrhythmia ECG images are shared in folder "ECG_image".
