@@ -2,9 +2,13 @@
 ## Some ECG examples are shared in this folder. 
 
 sinoatrial block (SA block.npy)
+
 sinus bradycardia	(SB.npy)
+
 sinus tachycardia	(ST.npy)
+
 sinus arrhythmia	(SA.npy)
+
 atrioventricular block	(AV block.npy)
 junction tachycardia	(JT.npy)
 junction escape	(JE.npy)
