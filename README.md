@@ -7,7 +7,7 @@ Arrhythmias can increase the risk of complications such as stroke or heart failu
 ## 1. The related code of the cardiologists-like computer aided interpretation framework of ECG is in the folder "code".
 
 
-## 2. Some ECG examples are shared in the folder "ECG_data". you can use numpy.load() to access the data.
+## 2. Some ECG examples are shared in the folder "ECG_data". These data have been anonymized. you can use numpy.load() to access the data.
 
 sinoatrial block (SA block.npy)
 
