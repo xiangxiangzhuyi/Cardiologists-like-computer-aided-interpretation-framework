@@ -45,7 +45,11 @@ atrial flutter	(AFL.npy）
 
 normal (Normal.npy)
 
-## 3. 100 arrhythmia ECG images are shared in the folder "ECG_image".
+## 3. We selected five raw CSV format samples for each of the 17 arrhythmia categories and the normal category in the folder "csv file".
+
+
+
+## 4. 100 arrhythmia ECG images are shared in the folder "ECG_image".
 ![0](https://user-images.githubusercontent.com/15710573/204076687-52639870-8ded-495f-b777-70214b48e2a4.png)
 
 
