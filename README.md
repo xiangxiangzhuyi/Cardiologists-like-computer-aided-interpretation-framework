@@ -45,7 +45,7 @@ atrial flutter	(AFL.npy）
 
 normal (Normal.npy)
 
-## 3. We selected five raw CSV format samples for each of the 17 arrhythmia categories and the normal category in the folder "csv file".
+## 3. We selected five raw CSV format samples for each of the 17 arrhythmia categories and the normal category in the folder "raw csv".
 
 
 
