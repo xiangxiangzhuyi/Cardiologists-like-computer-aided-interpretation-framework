@@ -3,7 +3,6 @@ import classifier as cl
 import support_read_data as srd
 import os
 
-
 def run_model(ty_n):
     # create folder
     sa_pa = srd.path + 'Model/model22_strong_and_weak/save_results/'
